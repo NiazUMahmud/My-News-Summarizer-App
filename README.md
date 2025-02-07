@@ -128,11 +128,3 @@ We welcome contributions to this project!  Here are some ways you can contribute
 2.  Create a new branch for your changes.
 3.  Make your changes and commit them with clear and concise commit messages.
 4.  Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
-
----
-
-**Example `requirements.txt` file:**
