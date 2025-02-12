@@ -1,6 +1,4 @@
-langchain
-openai
-huggingface_hub
-python-dotenv
 streamlit
+transformers
+torch
 newsapi
